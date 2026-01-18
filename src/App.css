@@ -1,7 +1,7 @@
 body {
   background-color: #efcdeb;  
-   justify-content: center;   /* horizontal center */
-  align-items: center;  /* whitish grey background */
+   justify-content: center;  
+  align-items: center;  
 }
 
 .quiz-container {
@@ -13,16 +13,16 @@ body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
   align-items: center;
   align-content: center;
-  background-color: #1f1b1b;      /* black container */
+  background-color: #1f1b1b;    
   color:wheat; 
-  alignment-baseline: central;                /* default text color */
+  alignment-baseline: central;              
 }
 
 .quiz-container h2,
 .quiz-container h3,
 .quiz-container p,
 .quiz-container label {
-  color: #bcaaaa;                 /* dark text inside quiz */
+  color: #bcaaaa;          
 }
 
 .option {
